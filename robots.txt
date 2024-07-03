@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miewsplac.github.io/sitemap
+Sitemap: https://miewsplac.github.io/app/sitemap
+Sitemap: https://miewsplac.github.io/assets/sitemap
+Sitemap: https://miewsplac.github.io/css/sitemap
+Sitemap: https://miewsplac.github.io/includes/sitemap
+Sitemap: https://miewsplac.github.io/item/sitemap
+Sitemap: https://miewsplac.github.io/src/sitemap
